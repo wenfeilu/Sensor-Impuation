@@ -1,2 +1,2 @@
-Dataset: UCI HAR dataset<br.>
+Dataset: UCI HAR dataset<br>
 Algorithm: GAIN
